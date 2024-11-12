@@ -1,0 +1,25 @@
+{
+  "name": "everybody-codes",
+  "version": "1.0.0",
+  "description": "Repo for the everybody.codes solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grug/everybody-codes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grug/everybody-codes/issues"
+  },
+  "homepage": "https://github.com/grug/everybody-codes#readme",
+  "dependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
